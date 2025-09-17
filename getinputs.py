@@ -1,5 +1,5 @@
 import findingmax
-arraylen = input ('enter number of elements')
+arraylen = input ('enter number of elements to find max no of')
 array = []
 i = 0
 while (int(i)<int (arraylen)):
